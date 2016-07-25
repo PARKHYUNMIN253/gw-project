@@ -1,0 +1,112 @@
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll.config
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Dao.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\EntityFramework.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\PagedList.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\BizOneShot.Light.Models.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\EntityFramework.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\PagedList.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\PagedList.EntityFramework.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\bin\Release\ko\EntityFramework.resources.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.csprojResolveAssemblyReference.cache
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Dao\obj\Release\BizOneShot.Light.Dao.pdb

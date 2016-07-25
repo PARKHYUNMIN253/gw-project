@@ -1,0 +1,322 @@
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\Development\workspace_SCPvs\BizOneShotStartUp_KEVE\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\__Work\슬기\BizOneShotStartUp_KEVE(슬기 test)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE(슬기 test) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.01\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.04(0408)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\BizOneShotStartUp_KEVE_NaviBar_v.07(0411)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\Development\workspace_SCPvs\KEVE\BizOneShotStartUp_KEVE_NaviBar_v.10(0412)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+C:\Users\MainPC\Downloads\BizOneShotStartUp_KEVE_NaviBar_v.13(0414)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\0415\BizOneShotStartUp_KEVE_NaviBar_v.14(0414) (1)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+D:\__Work\BOSS\BizOneShotStartUp_KEVE_NaviBar_v.14(0415)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+E:\work\0418\BizOneShotStartUp_KEVE_NaviBar_v.16(0415)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\[산식]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+C:\Users\park\Desktop\[원본]4월26일\BizOneShotStartUp_KEVE_NaviBar_v.19(0421) (3)\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll.config
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Services.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\EntityFramework.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\PagedList.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Dao.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\BizOneShot.Light.Models.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\EntityFramework.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\Newtonsoft.Json.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\PagedList.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.pdb
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\PagedList.EntityFramework.xml
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.resources.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.csprojResolveAssemblyReference.cache
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.dll
+E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Services\obj\Debug\BizOneShot.Light.Services.pdb
