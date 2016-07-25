@@ -22,4 +22,4 @@ namespace BizOneShot.Light.Web.Areas.Company
             );
         }
     }
-}
+} 
