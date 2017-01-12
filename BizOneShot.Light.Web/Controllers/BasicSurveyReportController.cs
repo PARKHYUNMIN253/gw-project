@@ -187,9 +187,11 @@ namespace BizOneShot.Light.Web.Controllers
             ViewBag.LeftMenu = Global.Report;
             ViewBag.paramModel = paramModel;
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
 
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            // paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
 
             ViewBag.BizWorkSn = paramModel.BizWorkSn;
             ViewBag.CompSn = paramModel.CompSn;
@@ -512,7 +514,7 @@ namespace BizOneShot.Light.Web.Controllers
 
             // 보고서 상단 회사명 가져오기 --------------------------------------------------------------------------------------------------
             var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            // paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -581,9 +583,11 @@ namespace BizOneShot.Light.Web.Controllers
             ViewBag.LeftMenu = Global.Report;
             ViewBag.paramModel = paramModel;
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
 
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
 
             return View(paramModel);
         }
@@ -640,8 +644,11 @@ namespace BizOneShot.Light.Web.Controllers
             ViewBag.paramModel = paramModel;
 
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
 
             ViewBag.CompNm = paramModel.CompNm;
 
@@ -724,8 +731,8 @@ namespace BizOneShot.Light.Web.Controllers
             viewModel.CommentList = CommentList;
 
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -891,8 +898,8 @@ namespace BizOneShot.Light.Web.Controllers
             viewModel.CommentList = CommentList;
 
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -1097,8 +1104,8 @@ namespace BizOneShot.Light.Web.Controllers
             viewModel.CommentList = CommentList;
 
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
 
@@ -1530,8 +1537,8 @@ namespace BizOneShot.Light.Web.Controllers
             viewList.Add(viewModel3);
 
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
 
@@ -1764,8 +1771,8 @@ namespace BizOneShot.Light.Web.Controllers
 
             viewModel.CommentList = CommentList;
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
 
@@ -1983,8 +1990,8 @@ namespace BizOneShot.Light.Web.Controllers
             viewList.Add(viewModel3);
 
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -2125,8 +2132,8 @@ namespace BizOneShot.Light.Web.Controllers
 
             viewModel.CommentList = CommentList;
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -2298,8 +2305,8 @@ namespace BizOneShot.Light.Web.Controllers
 
             viewModel.CommentList = CommentList;
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -2445,8 +2452,8 @@ namespace BizOneShot.Light.Web.Controllers
 
             viewModel.CommentList = CommentList;
             //보고서 상단 회사명 가져오기
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
 
             ViewBag.CompNm = paramModel.CompNm;
             ViewBag.paramModel = paramModel;
@@ -4260,10 +4267,11 @@ namespace BizOneShot.Light.Web.Controllers
                 return View(paramModel);
             }
 
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
 
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
-            paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
+
 
             return View(paramModel);
 
@@ -4280,10 +4288,13 @@ namespace BizOneShot.Light.Web.Controllers
                 return View(paramModel);
             }
 
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
 
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
-            paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
 
             ViewBag.paramModel = paramModel;
 
@@ -4300,10 +4311,13 @@ namespace BizOneShot.Light.Web.Controllers
                 return View(paramModel);
             }
 
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
 
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
-            paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
 
             ViewBag.paramModel = paramModel;
 
@@ -4322,10 +4336,13 @@ namespace BizOneShot.Light.Web.Controllers
                 return View(paramModel);
             }
 
-            var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
+            //var scCompMapping = await scCompMappingService.GetCompMappingAsync(paramModel.BizWorkSn, paramModel.CompSn);
 
-            paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
-            paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+            //paramModel.CompNm = scCompMapping.ScCompInfo.CompNm;
+            //paramModel.BizWorkNm = scCompMapping.ScBizWork.BizWorkNm;
+
+            paramModel.CompNm = "compNm";   // 기업명가지고오는부분
+            paramModel.BizWorkNm = "사업명";   // 사업명가지고오는 프로세스
 
             ViewBag.paramModel = paramModel;
 

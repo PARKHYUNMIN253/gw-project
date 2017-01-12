@@ -64,10 +64,10 @@
         <div id="sub_term_box">
             @Html.DropDownList("QuestionList", ViewBag.SelectQuestionList as SelectList, new { @class = "year", id = "SelectQuestion" })
 
-            @if (ViewBag.scCompMapping.Equals("A"))
-            {
+            @*@if (ViewBag.scCompMapping.Equals("A"))
+            {*@
                 <button type="submit" id="write" class="btn_mid gray1 right" value="작성 하기">작성하기</button>
-            }
+            @*}*@
             <button type="submit" id="view" class="btn_mid gray1 right" value="내용 보기">내용보기</button>
             @*<a href="##" onclick="doModify();" class="btn_mid_a gray1 right margin_r5" id="Modifybtn">수정하기</a>*@
         </div>

@@ -55,9 +55,9 @@ namespace BizOneShot.Light.Web.Areas.Company.Controllers
             //문진표 List Data
             var listQuesMaster = await _quesMasterService.GetQuesMastersAsync(Session[Global.CompRegistrationNo].ToString());
 
-            var scCompMapping = await _scCompMappingService.GetCompMappingAsync(int.Parse(compSn.ToString()), null);
+            //var scCompMapping = await _scCompMappingService.GetCompMappingAsync(int.Parse(compSn.ToString()), null);
 
-            ViewBag.scCompMapping = scCompMapping.Status;
+            //ViewBag.scCompMapping = scCompMapping.Status;
 
             var questionDropDown =
                 Mapper.Map<List<QuestionDropDownModel>>(listQuesMaster);
@@ -2695,41 +2695,54 @@ namespace BizOneShot.Light.Web.Areas.Company.Controllers
                 quesMaster.Status = "C";
                 await _quesMasterService.SaveDbContextAsync();
 
-                var compMappings = await _scCompMappingService.GetCompMappingsForCompanyAsync(int.Parse(compSn));
-                for (int i = 0; i < compMappings.Count; i++)
-                {
-                    var rptMasterObj = await _rptMasterService.GetRptMasterAsync(questionSn, int.Parse(compSn), (int)quesMaster.BasicYear);
-                    if (rptMasterObj == null)
-                    {
-                        RptMaster rptMaster = new RptMaster();
-                        rptMaster.BasicYear = quesMaster.BasicYear.Value;
-                        rptMaster.BizWorkSn = compMappings[i].BizWorkSn;
-                        rptMaster.Status = "T";
-                        rptMaster.QuestionSn = questionSn;
-                        rptMaster.CompSn = int.Parse(compSn);
-                        rptMaster.MentorId = compMappings[i].MentorId;
-                        rptMaster.RegDt = DateTime.Now;
-                        rptMaster.RegId = Session[Global.LoginID].ToString();
+                RptMaster rptMaster = new RptMaster();
+                rptMaster.BasicYear = quesMaster.BasicYear.Value;
+                rptMaster.BizWorkSn = 2013;            // 사업이 하나이냐 여러개이냐에 따라서 변동 가능 우선은 TEST용
+                rptMaster.Status = "C";
+                rptMaster.QuestionSn = questionSn;
+                rptMaster.CompSn = int.Parse(compSn);
+                rptMaster.MentorId = "MENTOR_ID";   // 멘토아이디의 경우 DEFAULT값으로 저장
+                rptMaster.RegDt = DateTime.Now;
+                rptMaster.RegId = Session[Global.LoginID].ToString();
 
-                        await _rptMasterService.AddRptMasterAsync(rptMaster);
-                    }
-                    else
-                    {
-                        rptMasterObj.BasicYear = quesMaster.BasicYear.Value;
-                        rptMasterObj.BizWorkSn = compMappings[i].BizWorkSn;
-                        rptMasterObj.Status = "T";
-                        rptMasterObj.QuestionSn = questionSn;
-                        rptMasterObj.CompSn = int.Parse(compSn);
-                        rptMasterObj.MentorId = compMappings[i].MentorId;
-                        rptMasterObj.RegDt = DateTime.Now;
-                        rptMasterObj.RegId = Session[Global.LoginID].ToString();
-
-                        _rptMasterService.ModifyRptMaster(rptMasterObj);
-                    }
-
-                }
-
+                await _rptMasterService.AddRptMasterAsync(rptMaster);
             }
+
+            //var compMappings = await _scCompMappingService.GetCompMappingsForCompanyAsync(int.Parse(compSn));
+            //    for (int i = 0; i < compMappings.Count; i++)
+            //    {
+            //        var rptMasterObj = await _rptMasterService.GetRptMasterAsync(questionSn, int.Parse(compSn), (int)quesMaster.BasicYear);
+            //        if (rptMasterObj == null)
+            //        {
+            //            RptMaster rptMaster = new RptMaster();
+            //            rptMaster.BasicYear = quesMaster.BasicYear.Value;
+            //            rptMaster.BizWorkSn = 1;            // 사업이 하나이냐 여러개이냐에 따라서 변동 가능 우선은 TEST용
+            //            rptMaster.Status = "T";
+            //            rptMaster.QuestionSn = questionSn;
+            //            rptMaster.CompSn = int.Parse(compSn);
+            //            rptMaster.MentorId = "MENTOR_ID";   // 멘토아이디의 경우 DEFAULT값으로 저장
+            //            rptMaster.RegDt = DateTime.Now;
+            //            rptMaster.RegId = Session[Global.LoginID].ToString();
+
+            //            await _rptMasterService.AddRptMasterAsync(rptMaster);
+            //        }
+            //        else
+            //        {
+            //            rptMasterObj.BasicYear = quesMaster.BasicYear.Value;
+            //            rptMasterObj.BizWorkSn = compMappings[i].BizWorkSn;
+            //            rptMasterObj.Status = "T";
+            //            rptMasterObj.QuestionSn = questionSn;
+            //            rptMasterObj.CompSn = int.Parse(compSn);
+            //            rptMasterObj.MentorId = compMappings[i].MentorId;
+            //            rptMasterObj.RegDt = DateTime.Now;
+            //            rptMasterObj.RegId = Session[Global.LoginID].ToString();
+
+            //            _rptMasterService.ModifyRptMaster(rptMasterObj);
+            //        }
+
+            //    }
+
+            //}
             else
             {
                 //에러처리 필요

@@ -180,3 +180,17 @@ E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Models\bin\Debug\ko\E
 E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Models\obj\Debug\BizOneShot.Light.Models.csprojResolveAssemblyReference.cache
 E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Models\obj\Debug\BizOneShot.Light.Models.dll
 E:\GWNU\BizOneShotStartUp_Voucher_0509_01\BizOneShot.Light.Models\obj\Debug\BizOneShot.Light.Models.pdb
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\BizOneShot.Light.Models.dll.config
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\BizOneShot.Light.Models.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\BizOneShot.Light.Models.pdb
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\EntityFramework.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\Newtonsoft.Json.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\EntityFramework.xml
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\Newtonsoft.Json.xml
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\ko\EntityFramework.resources.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\obj\Debug\BizOneShot.Light.Models.csprojResolveAssemblyReference.cache
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\obj\Debug\BizOneShot.Light.Models.dll
+D:\__Work\Gwnu\gw-repository\BizOneShot.Light.Models\obj\Debug\BizOneShot.Light.Models.pdb
